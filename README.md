@@ -1,4 +1,4 @@
-# Dark Nginx Autoindex Theme
+# Nginx Autoindex Theme
 
 ## Integration
 
